@@ -1,34 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
-
-body{
-  font-family: 'PT Sans', sans-serif;
-}
-
-.header .row {
-
-}
-.header li {
-  list-style: none;
-  display: inline;
-  padding: 0 20px;
-}
-.header li a{
-}
-body ul {
-  margin-bottom: 0;
-}
-header{
-  font-size: 20px;
-  height: 60px;
-  padding-top: 13px;
-}
-header .nav-link {
-  display: inline;
-}
-
-
 .login-page{
-  background-color: white;
+  background-color:#e5e7ed
 }
 .login-page main{
   width:100%;
@@ -138,26 +109,16 @@ input:focus {
 
 
 input#agree {
+
   display: inline-block;
+
   margin: 0 0 1px 0;
+
   vertical-align: middle;
+
 }
 
 
-button[disabled] {
-  background-color: rgba(0, 123, 255, 0.6) !important;
-  border-color: rgba(0, 123, 255, 0.6) !important;
-  cursor: no-drop;
-}
-
-
-.has-error span > span {
-  color: red;
-}
-.has-error input {
-  border-color: red !important;
-  color: red;
-}
 
 
 @media (max-width:767px)

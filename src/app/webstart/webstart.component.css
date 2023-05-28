@@ -1,0 +1,13 @@
+h1, a{
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+}
+a{
+  display: block;
+  color: darkblue;
+  font-size: 25px;
+}
+.logo{
+  text-align: center;
+}
