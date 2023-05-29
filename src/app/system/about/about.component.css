@@ -1,0 +1,14 @@
+.contact{
+  display: flex;
+}
+
+.contact h3 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #444444;
+  margin: 0 0 10px 0;
+}
+.adres{
+  margin-left: 30px;
+}
+
